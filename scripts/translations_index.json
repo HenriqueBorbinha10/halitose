@@ -1,16 +1,16 @@
 {
   "es": {
-    "welcome": "¡Bienvenida <span> </span>, completa tus datos para generar tu <span>plan personalizado!</span> ❤️",
-    "age": "TU NOMBRE",
-    "height": "TU SIGNO",
-    "weight": "NOMBRE DE TU AMOR",
-    "desiredWeight": "SIGNO DE TU AMOR",
-    "genderQuestion": "¿Cual es tu sexo?",
-    "male": "Masculino",
-    "female": "Femenino",
-    "activityQuestion": "¿Cuál es su nivel de obsesión?",
-    "activities": ["Ninguno", "Mínima", "Moderado", "Muy alto", "Extremadamente alto"],
-    "submit": "Entrar"
+    "welcome": "WELCOME <span> </span>, COMPLETE YOUR DATA TO GENERATE YOUR <span>CUSTOMIZED PLAN!</span> ❤️",
+    "age": "YOUR NAME",
+    "height": "YOUR AGE",
+    "weight": "NAME OF YOUR LOVE",
+    "desiredWeight": "AGE OF YOUR LOVE",
+    "genderQuestion": "WHAT IS YOUR SEX?",
+    "male": "MASCULINE",
+    "female": "FEMININE",
+    "activityQuestion": "WHAT IS YOUR LEVEL OF OBSESSION?",
+    "activities": ["NONE", "MINIMUM", "MODERATE", "VERY LOUD", "EXTREMELY HIGH"],
+    "submit": "ENTER"
   },
   "fr": {
     "welcome": "Bienvenue à l'<span>Pomme App</span>, remplissez vos informations pour générer votre <span>plan personnalisé !</span> 🍎",
