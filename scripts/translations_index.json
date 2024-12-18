@@ -27,15 +27,15 @@
   },
   "pt": {
     "welcome": "BEM VINDO AO <span>HALITOSE APP</span>, PREENCHA SEUS DADOS PARA GERAR SEU <span>PLANO PERSONALIZADO!</span> 😁",
-    "age": "Idade",
-    "height": "Altura (em cm)",
-    "weight": "Peso (em kg)",
-    "desiredWeight": "Peso desejado (em kg)",
-    "genderQuestion": "Qual é o seu sexo?",
-    "male": "Masculino",
-    "female": "Feminino",
-    "activityQuestion": "Qual é o seu nível de atividade diária?",
-    "activities" : ["Nenhuma atividade", "Atividade mínima", "Atividade moderada", "Muito ativo", "Extremamente ativo"],
-    "submit": "Entrar"
+    "age": "NOME",
+    "height": "E-MAIL",
+    "weight": "PESO (EM KG)",
+    "desiredWeight": "ALTURA (EM M)",
+    "genderQuestion": "QUAL É O SEU SEXO?",
+    "male": "MASCULINO",
+    "female": "FEMININO",
+    "activityQuestion": "QUAL É O NÍVEL DO SEU MAU HÁLITO?",
+    "activities" : ["BAIXO", "MÉDIO", "ALTO", "MUITO ALTO", "EXTREMAMENTE ALTO"],
+    "submit": "ENTRAR"
   }
 }
