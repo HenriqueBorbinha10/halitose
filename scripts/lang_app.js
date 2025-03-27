@@ -49,6 +49,15 @@ function applyTranslations(translations) {
     document.getElementById('teMilenarioAsiatico').textContent = translations.teMilenarioAsiatico;
     document.getElementById('hormonaAdelgazante').textContent = translations.hormonaAdelgazante;
     document.getElementById('tonicoHormonal').textContent = translations.tonicoHormonal;
+    document.getElementById('footer').textContent = translations.footer;
+    document.getElementById('footer').href = translations.footerHref;
+    document.getElementById('buttoncasanovaHref').onclick = function() {
+        window.location.href = translations.buttoncasanovaHref;
+    };
+    
+    document.getElementById('buttonfrasesHref').onclick = function() {
+        window.location.href = translations.buttonfrasesHref;
+    };
 }
 
 // Detecta o idioma do navegador ou usa 'es' (Espanhol) como padrão
