@@ -39,6 +39,7 @@ function loadImages(lang) {
     document.getElementById('iconsChaVerde').src = pathIcons[lang] + "cha-verde.png";
     document.getElementById('iconsPerdaPeso').src = pathIcons[lang] + "perda-de-peso.png";
     document.getElementById('iconsMusculo').src = pathIcons[lang] + "musculo.png";
+    document.getElementById('iconsmembresia').src = pathIcons[lang] + "membresia.png";
 }
 
 function applyTranslations(translations) {
@@ -49,6 +50,7 @@ function applyTranslations(translations) {
     document.getElementById('teMilenarioAsiatico').textContent = translations.teMilenarioAsiatico;
     document.getElementById('hormonaAdelgazante').textContent = translations.hormonaAdelgazante;
     document.getElementById('tonicoHormonal').textContent = translations.tonicoHormonal;
+    document.getElementById('membresia').textContent = translations.membresia;
     document.getElementById('footer').textContent = translations.footer;
     document.getElementById('footer').href = translations.footerHref;
     document.getElementById('buttoncasanovaHref').onclick = function() {
